@@ -21,4 +21,4 @@
 </style>
 ```
 
-![Solution](/images/1-simply-square.png)
+![Solution](./images/1-simply-square.png)

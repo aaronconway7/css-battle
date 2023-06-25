@@ -28,4 +28,4 @@
 </style>
 ```
 
-![Solution](/images/2-carrom.png)
+![Solution](./images/2-carrom.png)

@@ -57,4 +57,4 @@
 </style>
 ```
 
-![Solution](/images/3-push-button.png)
+![Solution](./images/3-push-button.png)

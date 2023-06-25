@@ -32,4 +32,4 @@
 </style>
 ```
 
-![Solution](/images/4-ups-n-downs.png)
+![Solution](./images/4-ups-n-downs.png)
